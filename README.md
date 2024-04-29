@@ -21,11 +21,11 @@ Este projeto consiste na implementação de um **Timer** para otimização da pr
 
 ## Como usar:
 
-Para acessar, [clique aqui](https://fokus.vercel.app/).
+Para acessar, [clique aqui](https://fokus-alura-tone-6.vercel.app/).
 
 ## Instalação e Uso:
 
-1. Clone este repositório: `git clone https://github.com/MarceloRodrigues1853/Fokus.git`
+1. Clone este repositório: `git clone https://github.com/MarceloRodrigues1853/Fokus_Alura_TONE6.git`
 2. Abra o arquivo `index.html` em seu navegador web
 3. Configure os períodos de foco e de descanso
 4. Inicie o timer e aproveite!
